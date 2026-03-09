@@ -1,0 +1,12 @@
+templates:
+  - question: "Who built the ark?"
+    answer: "Noah"
+    difficulty: easy
+
+  - question: "Who killed Goliath?"
+    answer: "David"
+    difficulty: easy
+
+  - question: "Which prophet survived the lions' den?"
+    answer: "Daniel"
+    difficulty: easy
