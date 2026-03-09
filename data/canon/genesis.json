@@ -1,0 +1,31 @@
+---
+
+# Example Canon Dataset
+
+`data/canon/genesis.json`
+
+```json
+[
+{
+"book":"Genesis",
+"chapter":1,
+"verse":1,
+"text":"In the beginning God created the heaven and the earth.",
+"characters":["God"],
+"topics":["Creation"],
+"events":["Creation"],
+"location":"Cosmos",
+"difficulty":"easy"
+},
+{
+"book":"Genesis",
+"chapter":6,
+"verse":14,
+"text":"Make thee an ark of gopher wood",
+"characters":["Noah","God"],
+"topics":["Ark","Flood"],
+"events":["The Flood"],
+"location":"Pre-flood world",
+"difficulty":"easy"
+}
+]
