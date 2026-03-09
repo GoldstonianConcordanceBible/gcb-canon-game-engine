@@ -1,0 +1,10 @@
+templates:
+
+  - type: mirror
+    question: "What does this passage reveal about God?"
+
+  - type: water
+    question: "What does this passage reveal about humanity?"
+
+  - type: fire
+    question: "What action should believers take?"
